@@ -5,6 +5,7 @@ This Amazon Product Recommender System leverages collaborative filtering techniq
 
 ## DataSet
 The data set "ratings_Electronics.csv" is available at : https://www.kaggle.com/datasets/saurav9786/amazon-product-reviews
+
 ## Features
 - Utilizes Singular Value Decomposition (SVD) for accurate prediction of user-item interactions.
 - Offers top-N product recommendations tailored to individual user profiles.
